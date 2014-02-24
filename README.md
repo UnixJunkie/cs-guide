@@ -51,7 +51,9 @@ References
 Bosco K. Ho's blog post "Notes to a young computational biologist"
 http://boscoh.com/protein/notes-to-a-young-computational-biologist.html
 
-the paper tom sent me recently
+Article: Best Practices for Scientific Computing
+DOI: 10.1371/journal.pbio.1001745
+http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001745
 
 Book: The Art of UNIX Programming
 Author: Eric S. Raymond
